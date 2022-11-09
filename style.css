@@ -79,7 +79,7 @@ body {
 }
 .gen-word {
   color: #03a9f4;
-  font-size: 60px;
+  font-size: 50px;
   user-select: none;
 }
 input {
@@ -91,6 +91,7 @@ input {
   text-align: center;
   text-transform: capitalize;
   margin: 10px 0;
+  font-size: 22px;
 }
 input::placeholder {
   font-size: 20px;
