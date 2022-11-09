@@ -28,7 +28,7 @@ let allWords = [
   "Cairo",
   "Drive",
   "Friends",
-  "MilitaryAircraft",
+  "Done",
 ];
 
 // Setting Levels
